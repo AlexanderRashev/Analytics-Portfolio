@@ -33,13 +33,13 @@ It demonstrates KPI calculation, status-based filtering, discrepancy detection, 
 
 ## 📂 Structure
 Financial-Reconciliation-Dashboard/
-│
+
 ├── data/
-│ └── financial_data_large.csv
+│   └── financial_data_large.csv
 │
 ├── dashboard/
-│ ├── dashboard_screenshot.png
-│ └── summary_screenshot.png
+│   ├── dashboard_screenshot.png
+│   └── summary_screenshot.png
 │
-└── README.md
+
 
