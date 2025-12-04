@@ -7,6 +7,7 @@ Welcome to my Data Analytics & BI Portfolio.
 Here I showcase real-world analytical projects focused on:
 
 *Financial reporting & data validation
+
 *SQL analysis
 *Dashboard creation (Power BI, Sheets)
 *Operational & workforce analytics
