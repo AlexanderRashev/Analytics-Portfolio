@@ -6,17 +6,12 @@ Alexander Rashev — Data Analytics Portfolio
 Welcome to my Data Analytics & BI Portfolio.
 Here I showcase real-world analytical projects focused on:
 
-Financial reporting & data validation
-
-SQL analysis
-
-Dashboard creation (Power BI, Sheets)
-
-Operational & workforce analytics
-
-Expense–income reconciliation
-
-Data cleaning & KPI reporting
+*Financial reporting & data validation
+*SQL analysis
+*Dashboard creation (Power BI, Sheets)
+*Operational & workforce analytics
+*Expense–income reconciliation
+*Data cleaning & KPI reporting
 
 My goal is to combine accurate data processing with clear and impactful reporting.
 
