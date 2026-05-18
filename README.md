@@ -6,7 +6,7 @@ This space highlights practical projects focused on:
 - Financial reporting & reconciliation  
 - Data cleaning & validation  
 - SQL analysis  
-- Dashboard creation (Excel, Google Sheets, Power BI)  
+- Dashboard creation (Excel, Google Sheets, Power BI, Tableau)  
 - Operations & workforce analytics  
 
 I am currently expanding my BI skills and building real-world analytical projects to demonstrate accuracy, clarity, and structured reporting.
